@@ -17,3 +17,14 @@ DevOps lifecycle is effortless to manipulate and it helps satisfactory delivery.
 5.Continuous Monitoring
 6.Continuous Feedback
 7.Continuous Operations
+
+Q. what is monolithic architecture and microservices?
+Ans::  A monolithic architecture is a traditional model of a software program, which is built as a unified unit that is self-contained and independent from 
+other applications. The word “monolith” is often attributed to something large and glacial, 
+which isn’t far from the truth of a monolith architecture for software design. A monolithic architecture is a singular, 
+large computing network with one code base that couples all of the business concerns together.  To make a change to this sort of application
+requires updating the entire stack by accessing the code base and building and deploying an updated version of the service-side interface.
+This makes updates restrictive and time-consuming. 
+
+Q. what is services in Devops?
+Ans: DevOps as a service relies on infrastructure-as-code to quickly replace and address issues with virtual infrastructure.
